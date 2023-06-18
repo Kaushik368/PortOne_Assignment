@@ -1,0 +1,20 @@
+{
+  "name": "portone-assignment",
+  "version": "1.0.0",
+  "description": "Automating \b\b\b  \b\bon of Paymeny \b\b\b\b\b\b\b\b           \b\b\b\b\b\b\b\b\b\b\b\b portom\b \bne payment module using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "chai": "^4.3.7",
+    "cypress": "^12.14.0",
+    "cypress-mochawesome-reporter": "^3.5.1"
+  },
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
