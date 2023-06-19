@@ -1,7 +1,7 @@
 {
   "name": "portone-assignment",
   "version": "1.0.0",
-  "description": "Automating \b\b\b  \b\bon of Paymeny \b\b\b\b\b\b\b\b           \b\b\b\b\b\b\b\b\b\b\b\b portom\b \bne payment module using cypress",
+  "description": "Automating on of Paymeny portone payment module using cypress",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
